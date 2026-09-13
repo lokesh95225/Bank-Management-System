@@ -1,4 +1,4 @@
-# 🏦 PrismByte Banking Application
+# 🏦Banking Application
 
 <p align="center">
   <b>A Production-Style Full-Stack Banking Application</b>
